@@ -10,7 +10,7 @@ nav {
     top: 0;
     left: 0;
     backdrop-filter: blur(10px) saturate(200%) brightness(70%);
-    color: #fff;
+    color: #601f8c;
     display: flex;
     height: 7vw;
     width: 100%;
